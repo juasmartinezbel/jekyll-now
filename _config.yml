@@ -2,9 +2,9 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-merlot
+# remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Name of your site (displayed in the header)
-name: Sebastián Martínez 
+name: Sebastián Martínez
 
 # Short bio or description (displayed in the header)
 description: Systems Engineering Student, with a Github full of small projects, but working in making it grow
@@ -85,3 +85,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+sources:
+     -assets/fonts

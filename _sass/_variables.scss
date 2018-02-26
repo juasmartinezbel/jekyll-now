@@ -4,20 +4,33 @@
 //
 
 // Colors
-$blue: #4183C4;
+
+$blue: #2ECCFA;
 
 // Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$black: #FFF;
+$darkerGray: #EEE;
+$darkGray: #DDD;
+$gray: #CCC;
+$lightGray: #310052;
+$white: #180028;
 
 // Font stacks
+@font-face {
+    font-family: 'Pixel';
+    src: url('./fonts/pixel_font.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Questrial';
+    src: url('./fonts/Questrial-Regular.otf') format('opentype');
+}
+
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$pixel: 'Pixel';
+$questrial: 'Questrial';
 
 // Mobile breakpoints
 @mixin mobile {

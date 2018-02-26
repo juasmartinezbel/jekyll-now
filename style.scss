@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $questrial;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $pixel;
   color: $darkerGray;
   font-weight: bold;
 
@@ -69,6 +69,7 @@ p {
 }
 
 a {
+  font-family: $pixel;
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
