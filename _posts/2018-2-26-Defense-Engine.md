@@ -4,7 +4,8 @@ title: Defense Engine, The Perfect Imperfect First Step
 ---
 
 ![_config.yml](/images/Logo.png)                
-I've been working hard in my years of college, it was hard to understand and, while i'm not the best programmer in the world, not even close to being the one in my career, it was hard getting where i am. But the first thing i worked hard, that made me go through nights without sleep, was basically every kid of my generation's dream: Making my first videogame.
+I've been working hard in my years of college, it was hard to understand and, while i'm not the best programmer in the world, not even close to being the one in my career, it was hard getting where i am. But the first thing i worked hard, that made me go through nights without sleep, was basically every kid of my generation's dream: 
+### Making my first videogame.
 
 Of course i didn't make this alone, in fact, this was the project where i met (most) of my most trust-worthy working team in my college year and who i trust in basically everything. This is a project where we shed tears and shed, we learned C# and Unity in basically a month, not the prettiest of the engines, but useful for what we were trying to do. And that's the key word, trying.
 

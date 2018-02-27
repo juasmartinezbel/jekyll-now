@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
+
+I'm Sebastián. In this GH Page you can find somet hings about my personal projects.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ Everybody i know call me Zebitas, even againts my will.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juasmartinezbel@unal.edu.co](mailto:juasmartinezbel@unal.edu.co)
